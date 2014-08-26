@@ -33,7 +33,7 @@
       </header>
       <div class="slideshow">
         <ul class="slideshow">
-          <li class="show"><img width="950" height="350" src="images/1.jpg" alt="&quot;You can put a caption for your image right here&quot;" /></li>
+          <li class="show"><img width="950" height="350" src="images/1.jpg" alt="&quot;سلام;" /></li>
           <li><img width="950" height="350" src="images/2.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></li>
           <li><img width="950" height="350" src="images/3.jpg" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></li>
         </ul>
