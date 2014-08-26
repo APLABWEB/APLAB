@@ -8,6 +8,8 @@
 </head>
 <body>
 WelcoOoOoOoOoOoM !!! :D
-This is home_Page ...
+<t:wrapper>
+    <h1>Welcome</h1>
+</t:wrapper>
 </body>
 </html>
